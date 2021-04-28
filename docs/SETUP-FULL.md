@@ -156,7 +156,7 @@ like this in your `temp-credentials.txt`:
 
 ```
 heroku.app: jpa03-cgaucho
-heroku.url: https://jpa03-cgaucho.herokuapp.com
+heroku.url: https://jpa03-cgaucho.herokuapp.com 
 auth0.tenant: ucsb-cs156-cgaucho
 auth0.domain:
 auth0.clientId: 
