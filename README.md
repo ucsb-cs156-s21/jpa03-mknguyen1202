@@ -3,7 +3,7 @@
 =======
 # jpa03-mknguyen1202
 
-Repo:   https://github.com/ucsb-cs156-s21/jpa03-knguyen104
+Repo:   https://github.com/ucsb-cs156-s21/jpa03-mknguyen1202
 
 On Heroku: https://jpa03-knguyen104.herokuapp.com/
 
